@@ -1,1 +1,3 @@
 # PlumasAzules.github.io
+Soooo...
+A try to do a js game for programmers?
